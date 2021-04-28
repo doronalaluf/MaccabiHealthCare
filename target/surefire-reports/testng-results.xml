@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Web suite" duration-ms="4178" started-at="2021-04-08T13:06:45 IDT" finished-at="2021-04-08T13:06:49 IDT">
+    <groups>
+    </groups>
+    <test name="Web Test" duration-ms="4178" started-at="2021-04-08T13:06:45 IDT" finished-at="2021-04-08T13:06:49 IDT">
+      <class name="santiy.GrafanaApi">
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="BeforeMethod" is-config="true" duration-ms="1215" started-at="2021-04-08T13:06:45 IDT" finished-at="2021-04-08T13:06:46 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void santiy.GrafanaApi.test01_VerifyTeam()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[api]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="test01_VerifyTeam()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="test01_VerifyTeam" duration-ms="2111" started-at="2021-04-08T13:06:47 IDT" description="test01 - Get Team From Grafana" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01_VerifyTeam -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="BeforeMethod" is-config="true" duration-ms="3" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void santiy.GrafanaApi.test02_addTeam()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[api]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="test02_addTeam()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="test02_addTeam" duration-ms="142" started-at="2021-04-08T13:06:49 IDT" description="test02 - Add Team To Grafana And Verify it" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02_addTeam -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="BeforeMethod" is-config="true" duration-ms="4" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void santiy.GrafanaApi.test03_updateTeam()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[api]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="test03_updateTeam()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="test03_updateTeam" duration-ms="211" started-at="2021-04-08T13:06:49 IDT" description="test03 - Update Team in Grafana And Verify it" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03_updateTeam -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="BeforeMethod" is-config="true" duration-ms="5" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void santiy.GrafanaApi.test04_deleteTeam()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[api]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="test04_deleteTeam()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="test04_deleteTeam" duration-ms="137" started-at="2021-04-08T13:06:49 IDT" description="test04 - Delete Team in Grafana And Verify it" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04_deleteTeam -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:santiy.GrafanaApi@3caa4757]" name="closeSession" is-config="true" duration-ms="0" started-at="2021-04-08T13:06:49 IDT" finished-at="2021-04-08T13:06:49 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- santiy.GrafanaApi -->
+    </test> <!-- Web Test -->
+  </suite> <!-- Web suite -->
+</testng-results>

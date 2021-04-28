@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "AfterMethod",
+    "uid" : "612a0f9d4b692214",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1617868380726,
+      "stop" : 1617868380727,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "test01 - Verify Login",
+    "uid" : "dbd469472d03a676",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1617868581768,
+      "stop" : 1617868581919,
+      "duration" : 151
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "test02 - Verify Visit With Out Card",
+    "uid" : "59dd91ae23a67e0b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1617868592583,
+      "stop" : 1617868600223,
+      "duration" : 7640
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "web" ]
+  }, {
+    "name" : "test01 - Get Team From Grafana",
+    "uid" : "3c5cf06054bdd308",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1617876407156,
+      "stop" : 1617876409226,
+      "duration" : 2070
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "api" ]
+  }, {
+    "name" : "test02 - Add Team To Grafana And Verify it",
+    "uid" : "ef710695082a649e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1617876409247,
+      "stop" : 1617876409388,
+      "duration" : 141
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "api" ]
+  }, {
+    "name" : "test03 - Update Team in Grafana And Verify it",
+    "uid" : "fe0b765c9bab2455",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1617876409525,
+      "stop" : 1617876409735,
+      "duration" : 210
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "api" ]
+  }, {
+    "name" : "test04 - Delete Team in Grafana And Verify it",
+    "uid" : "a3595ae48328ccb6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1617876409754,
+      "stop" : 1617876409891,
+      "duration" : 137
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "api" ]
+  } ]
+}

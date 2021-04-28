@@ -1,0 +1,448 @@
+{
+  "e2f1aa4617da60f89093aa90a72dd398" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "fe0b765c9bab2455",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/fe0b765c9bab2455",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617876409525,
+        "stop" : 1617876409735,
+        "duration" : 210
+      }
+    }, {
+      "uid" : "6cec8f5bcc588f5",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/6cec8f5bcc588f5",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804892699,
+        "stop" : 1617804892700,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5e7cfddd63da45f1",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/5e7cfddd63da45f1",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804892699,
+        "stop" : 1617804892700,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1d0ce3ffad522cb8b8336a2c3dac3c18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "3c5cf06054bdd308",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/3c5cf06054bdd308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617876407156,
+        "stop" : 1617876409226,
+        "duration" : 2070
+      }
+    }, {
+      "uid" : "2c1c29d8c6d9e8cc",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/2c1c29d8c6d9e8cc",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804852624,
+        "stop" : 1617804852690,
+        "duration" : 66
+      }
+    }, {
+      "uid" : "750559fc3bf9c483",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/750559fc3bf9c483",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804852624,
+        "stop" : 1617804852690,
+        "duration" : 66
+      }
+    } ]
+  },
+  "9f3c285c8165f43fa6390892a4ee5873" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7bc0a110f1fdf770",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/7bc0a110f1fdf770",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\doronalaluf\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1617820914637,
+        "stop" : 1617820914640,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "ad687a8595cd9101",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/ad687a8595cd9101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617803959057,
+        "stop" : 1617803959189,
+        "duration" : 132
+      }
+    } ]
+  },
+  "4036ee958e0988c27e689017629b8fa9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "59dd91ae23a67e0b",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/59dd91ae23a67e0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617868592583,
+        "stop" : 1617868600223,
+        "duration" : 7640
+      }
+    }, {
+      "uid" : "eb7c2edb0d3a17b3",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/eb7c2edb0d3a17b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617823679649,
+        "stop" : 1617823687218,
+        "duration" : 7569
+      }
+    }, {
+      "uid" : "570de04957b153a4",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/570de04957b153a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617804043879,
+        "stop" : 1617804051987,
+        "duration" : 8108
+      }
+    } ]
+  },
+  "34e2040afa7820a3693c5b86dc268cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "dbd469472d03a676",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/dbd469472d03a676",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617868581768,
+        "stop" : 1617868581919,
+        "duration" : 151
+      }
+    }, {
+      "uid" : "576e8257efacd9ea",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/576e8257efacd9ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617823673505,
+        "stop" : 1617823679623,
+        "duration" : 6118
+      }
+    }, {
+      "uid" : "b14d21558d0ebbda",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/b14d21558d0ebbda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617804030144,
+        "stop" : 1617804030289,
+        "duration" : 145
+      }
+    } ]
+  },
+  "10f9847e512b2a61bc1a90a482bc68a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5671206388b60563",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/5671206388b60563",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\doronalaluf\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1617820914660,
+        "stop" : 1617820914661,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "981b688bb52d126c",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/981b688bb52d126c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617803969659,
+        "stop" : 1617803977112,
+        "duration" : 7453
+      }
+    } ]
+  },
+  "60f8fb26cdbe9b74134cf23940be98e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fd1cd727111f3d8",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/5fd1cd727111f3d8",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617819796750,
+        "stop" : 1617819796752,
+        "duration" : 2
+      }
+    } ]
+  },
+  "254270265940e8143b9bca8244917e16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "97a56da29cddcde4",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/97a56da29cddcde4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799715625,
+        "stop" : 1617799715792,
+        "duration" : 167
+      }
+    }, {
+      "uid" : "9dc49f9f325a85aa",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/9dc49f9f325a85aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799715625,
+        "stop" : 1617799715792,
+        "duration" : 167
+      }
+    }, {
+      "uid" : "800a59d76d1f347d",
+      "reportUrl" : "http://localhost:9090/job/Macbbi-%20SanityWeb/13/allure/#testresult/800a59d76d1f347d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799715625,
+        "stop" : 1617799715792,
+        "duration" : 167
+      }
+    }, {
+      "uid" : "5e34986ed95e5dab",
+      "reportUrl" : "http://localhost:9090/job/Macbbi-%20SanityWeb/12/allure/#testresult/5e34986ed95e5dab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799715625,
+        "stop" : 1617799715792,
+        "duration" : 167
+      }
+    }, {
+      "uid" : "e0372fe5a379f7b5",
+      "reportUrl" : "http://localhost:9090/job/Macbbi-%20SanityWeb/11/allure/#testresult/e0372fe5a379f7b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799715625,
+        "stop" : 1617799715792,
+        "duration" : 167
+      }
+    } ]
+  },
+  "afed8a3683c130e48a6880e2c87ff98d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99dfa20aafb3864",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/99dfa20aafb3864",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\doronalaluf\\AppData\\Local\\JetBrains\\IdeaIC2020.2\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1617820914493,
+        "stop" : 1617820914498,
+        "duration" : 5
+      }
+    } ]
+  },
+  "19cc10f43f23aa242c47fe2c9da7f793" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f37c9e17d687d2ec",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/f37c9e17d687d2ec",
+      "status" : "broken",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-67TBU2L', ip: '10.100.102.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1617821734572,
+        "stop" : 1617821734573,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4c11242c1f8688e5fc1f03df84ea48d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "ef710695082a649e",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/ef710695082a649e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617876409247,
+        "stop" : 1617876409388,
+        "duration" : 141
+      }
+    }, {
+      "uid" : "39b822a51f12e26a",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/39b822a51f12e26a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804875815,
+        "stop" : 1617804875822,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "1a40092a6d5b3ca0",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/1a40092a6d5b3ca0",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804875815,
+        "stop" : 1617804875822,
+        "duration" : 7
+      }
+    } ]
+  },
+  "1cab202a5e85ddd70f6edd9efc067229" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "612a0f9d4b692214",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/612a0f9d4b692214",
+      "status" : "broken",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-67TBU2L', ip: '10.100.102.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1617868380726,
+        "stop" : 1617868380727,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dcc79284883ae712",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/dcc79284883ae712",
+      "status" : "broken",
+      "statusDetails" : "Session ID is null. Using WebDriver after calling quit()?\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-67TBU2L', ip: '10.100.102.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1617823501004,
+        "stop" : 1617823501005,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4cadd90c44a82f1bfd9dc07cb7580f4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "a3595ae48328ccb6",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure/#testresult/a3595ae48328ccb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617876409754,
+        "stop" : 1617876409891,
+        "duration" : 137
+      }
+    }, {
+      "uid" : "502d73206f0d8189",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure/#testresult/502d73206f0d8189",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804913690,
+        "stop" : 1617804913693,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "8a22d7f6348df1a8",
+      "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure/#testresult/8a22d7f6348df1a8",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1617804913690,
+        "stop" : 1617804913693,
+        "duration" : 3
+      }
+    } ]
+  }
+}

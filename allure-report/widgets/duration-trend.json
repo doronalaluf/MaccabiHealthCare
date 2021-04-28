@@ -1,0 +1,43 @@
+[ {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/sanety%20API/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 8029165
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:9090/job/sanety%20API/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 23971593
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:9090/job/sanety%20API/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 5198068
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "http://localhost:9090/job/Macbbi-%20SanityWeb/13/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 167
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:9090/job/Macbbi-%20SanityWeb/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 167
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:9090/job/Macbbi-%20SanityWeb/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 167
+  }
+} ]

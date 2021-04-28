@@ -1,0 +1,112 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Web suite",
+    "children" : [ {
+      "name" : "Web Test",
+      "children" : [ {
+        "name" : "santiy.MaccbiWeb",
+        "children" : [ {
+          "name" : "AfterMethod",
+          "uid" : "612a0f9d4b692214",
+          "parentUid" : "59eddb54b7c3acdf62daa82b5af7395f",
+          "status" : "broken",
+          "time" : {
+            "start" : 1617868380726,
+            "stop" : 1617868380727,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "test01 - Verify Login",
+          "uid" : "dbd469472d03a676",
+          "parentUid" : "59eddb54b7c3acdf62daa82b5af7395f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617868581768,
+            "stop" : 1617868581919,
+            "duration" : 151
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        }, {
+          "name" : "test02 - Verify Visit With Out Card",
+          "uid" : "59dd91ae23a67e0b",
+          "parentUid" : "59eddb54b7c3acdf62daa82b5af7395f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617868592583,
+            "stop" : 1617868600223,
+            "duration" : 7640
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "web" ]
+        } ],
+        "uid" : "59eddb54b7c3acdf62daa82b5af7395f"
+      }, {
+        "name" : "santiy.GrafanaApi",
+        "children" : [ {
+          "name" : "test01 - Get Team From Grafana",
+          "uid" : "3c5cf06054bdd308",
+          "parentUid" : "033a42d82ecbeb06d13d3aebb87949fd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617876407156,
+            "stop" : 1617876409226,
+            "duration" : 2070
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "test02 - Add Team To Grafana And Verify it",
+          "uid" : "ef710695082a649e",
+          "parentUid" : "033a42d82ecbeb06d13d3aebb87949fd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617876409247,
+            "stop" : 1617876409388,
+            "duration" : 141
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "test03 - Update Team in Grafana And Verify it",
+          "uid" : "fe0b765c9bab2455",
+          "parentUid" : "033a42d82ecbeb06d13d3aebb87949fd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617876409525,
+            "stop" : 1617876409735,
+            "duration" : 210
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "test04 - Delete Team in Grafana And Verify it",
+          "uid" : "a3595ae48328ccb6",
+          "parentUid" : "033a42d82ecbeb06d13d3aebb87949fd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1617876409754,
+            "stop" : 1617876409891,
+            "duration" : 137
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        } ],
+        "uid" : "033a42d82ecbeb06d13d3aebb87949fd"
+      } ],
+      "uid" : "dfc253b86b64531bf5a151d137d3fca3"
+    } ],
+    "uid" : "e37d335be3079f7415ba17e780e75fab"
+  } ]
+}

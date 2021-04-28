@@ -1,0 +1,71 @@
+[ {
+  "uid" : "dbd469472d03a676",
+  "name" : "test01 - Verify Login",
+  "time" : {
+    "start" : 1617868581768,
+    "stop" : 1617868581919,
+    "duration" : 151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59dd91ae23a67e0b",
+  "name" : "test02 - Verify Visit With Out Card",
+  "time" : {
+    "start" : 1617868592583,
+    "stop" : 1617868600223,
+    "duration" : 7640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef710695082a649e",
+  "name" : "test02 - Add Team To Grafana And Verify it",
+  "time" : {
+    "start" : 1617876409247,
+    "stop" : 1617876409388,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "612a0f9d4b692214",
+  "name" : "AfterMethod",
+  "time" : {
+    "start" : 1617868380726,
+    "stop" : 1617868380727,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a3595ae48328ccb6",
+  "name" : "test04 - Delete Team in Grafana And Verify it",
+  "time" : {
+    "start" : 1617876409754,
+    "stop" : 1617876409891,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c5cf06054bdd308",
+  "name" : "test01 - Get Team From Grafana",
+  "time" : {
+    "start" : 1617876407156,
+    "stop" : 1617876409226,
+    "duration" : 2070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe0b765c9bab2455",
+  "name" : "test03 - Update Team in Grafana And Verify it",
+  "time" : {
+    "start" : 1617876409525,
+    "stop" : 1617876409735,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

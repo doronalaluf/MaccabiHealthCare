@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!-- Time out-->
+    <Timeout>5</Timeout>
+
+    <!-- web -->
+    <BrowserName>chrome</BrowserName>
+    <url>https://mac.maccabi4u.co.il/login?SAMLRequest=rZJba4MwGIb%2FSsi9h6gVDdXRrYwVdpBVdrGbEWPaBuIXl8Qd%2Fv3UDtYx6NUu%0AcpX3y%2Fc%2BD1la1qmergZ3gEfxOgjr0EenwNL5osCDAaqZlZYC64SljtPt6u6W%0ARn5Ie6Od5lphtB7nJDAnNRT44FxvaRB0jPvj4ayRyeBz7UsVKL2XgNG1NlzM%0ASwscYrRZF%2FhllyZZTJowT8OUkCyN4yTOyS7jEVmwJsnHmLWD2IB1DFyBozAi%0AXhh7JK9JTElGF%2BkzRtV3p0sJrYT9eYDmGLL0pq4rr3rY1vMDb7IV5n5M%2F7Bo%0AUBLEH5yWAfOABWxECSZjnoC21xKcz%2Ffyoi9sH2H0JIydzYw7cbmccnRmMSeu%0Azzdl1goz6cXlP1RaBicdjoV6OgFv1pVWkn%2BilVL6%2FcoI5kYJBAflceT3Tym%2F%0AAA%3D%3D%0A&amp;RelayState=https%3A%2F%2Fonline.maccabi4u.co.il&amp;SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&amp;Signature=EQZVMnczm0D%2FJjYMmt69R9us%2BQhS64QivD0ZRLFUrYCVGZRs%2Fy163903bIOe9l8E3LdBaIjdm%2B7YBbwzXpyiEwhoqN%2Fki5tLp7uZ6W%2FK6iwB07%2BWGijlSRxcPlNRnjOeOFxBI9GgAJ%2BBRAeAqYwhJ03xpQQs0F%2FOJvuiqBrJTO%2BOT7mX15XVUpp%2FNnQX%2BRYU44ylCHQpN%2BQeBpG9RPKQ%2FCvyQoQ6b6l9oZokCB1PTYUqgaW%2BynYNdl9fXJXMNxNSGdyHfz3Prj1qFC356XCJ7a46gPUHs9LJhpAWapywufHQmsbdvkBsXnym43gHh2wq%2FMTKMJtXM%2Fj93NjUNFVfPw%3D%3D</url>
+    <!--url>https://mac.maccabi4u.co.il/login?SAMLRequest=rZLLTsMwEEV%2FxfI%2BD4eSgNUEFSpEJR4RjViwQY7jtpaccfA4PP6eJEWiCKkr%0AFl75jueeI89RtKbji97v4FG99go9%2BWgNIJ8ucto74FagRg6iVci95OvF3S1P%0Awph3znorraFkOcxpEF5byOnO%2Bw55FLVChsORotazPpQ21CYydquBkmvrpJqW%0A5jSmZLXM6ctGsTqe1WfyVGWpUJs0SeO62WQiqTNWZ8kQQ%2BzVCtAL8DlN4oQF%0A8Sxg5xVjnKWcxc%2BUlN%2BdLjU0GrbHAep9CPlNVZVB%2BbCupgfedKPc%2FZD%2BYbFg%0ANKg%2FOI0AEYCIxIASjcYCBU1nNfhQbvVFl2N3QsmTcjiZGXbSYj7m%2BMTiDlwf%0AbyoQlRv10uIfKs2jgw77Qh0fgVfL0hotP8nCGPt%2B5ZTwgwRGo2I%2F8vunFF8%3D%0A&amp;RelayState=https%3A%2F%2Fonline.maccabi4u.co.il&amp;SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&amp;Signature=rp3HZB3JLdpztUYDBxLrZXNRX16q771cAFvLFZuUl2J%2Bt1TNtqCdA%2BF%2F5h6m0bFIjJg2x0pUiOkNSwg4di5prm6M6yyq1aKALGtcc9fxRndzgNyy06wP%2FVJzsuQ0caXxILfwhrhIuNSmbmmq2DKadkhyA9r2qa7mYn8jXiBsF97s2ROHCrwI0%2FK4Jkl3YNXQEeVUgYHXCDRRS9Oe6r5RVAurPyr4ycmbW7t9%2FMuYN7vl0v%2BLSiXOf74P%2FdKCB3K7ZB00yDmKwgG%2BrMuCwMEuAhu3TFw42kTSJ0l0BEdoAJZBNTqXL9LLAwFVfq7s6Ze61zOIcdXmv%2FUoLTpcnssC3A%3D%3D</url-->
+
+
+    <!-- mobile -->
+    <UDID>a011d30c</UDID>
+    <APP_PACKAGE>com.shivgadhia.android.ukMortgageCalc</APP_PACKAGE>
+    <APP_ACTIVITY>.MainActivity</APP_ACTIVITY>
+    <appiumServer>http://localhost:4723/wd/hub</appiumServer>
+
+    <!-- API -->
+    <urlAPI>http://localhost:3000/</urlAPI>
+</Environment>

@@ -1,0 +1,336 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-67TBU2L",
+    "children" : [ {
+      "name" : "11524@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "test02 - Add Team To Grafana And Verify it",
+        "uid" : "ef710695082a649e",
+        "parentUid" : "27742d580d2237eef08d1798df8a601d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876409247,
+          "stop" : 1617876409388,
+          "duration" : 141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test01 - Get Team From Grafana",
+        "uid" : "3c5cf06054bdd308",
+        "parentUid" : "27742d580d2237eef08d1798df8a601d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876407156,
+          "stop" : 1617876409226,
+          "duration" : 2070
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test04 - Delete Team in Grafana And Verify it",
+        "uid" : "a3595ae48328ccb6",
+        "parentUid" : "27742d580d2237eef08d1798df8a601d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876409754,
+          "stop" : 1617876409891,
+          "duration" : 137
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test03 - Update Team in Grafana And Verify it",
+        "uid" : "fe0b765c9bab2455",
+        "parentUid" : "27742d580d2237eef08d1798df8a601d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617876409525,
+          "stop" : 1617876409735,
+          "duration" : 210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "27742d580d2237eef08d1798df8a601d"
+    }, {
+      "name" : "11384@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "test03 - Update Team in Grafana And Verify it",
+        "uid" : "73301d5ecc0cb7f4",
+        "parentUid" : "7e50df9e9f47de57897f883675826e96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617872856538,
+          "stop" : 1617872856666,
+          "duration" : 128
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test01 - Get Team From Grafana",
+        "uid" : "eb3fdbb39a1a9d5c",
+        "parentUid" : "7e50df9e9f47de57897f883675826e96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617872855213,
+          "stop" : 1617872856377,
+          "duration" : 1164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test04 - Delete Team in Grafana And Verify it",
+        "uid" : "ecacffad77d544bb",
+        "parentUid" : "7e50df9e9f47de57897f883675826e96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617872856679,
+          "stop" : 1617872856795,
+          "duration" : 116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test02 - Add Team To Grafana And Verify it",
+        "uid" : "68a732d8a81416d5",
+        "parentUid" : "7e50df9e9f47de57897f883675826e96",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617872856396,
+          "stop" : 1617872856523,
+          "duration" : 127
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "7e50df9e9f47de57897f883675826e96"
+    }, {
+      "name" : "14164@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "test03 - Update Team in Grafana And Verify it",
+        "uid" : "d6392724911d1cb0",
+        "parentUid" : "0a06c70008b4592acf667ead6449d487",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868668986,
+          "stop" : 1617868673076,
+          "duration" : 4090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test04 - Delete Team in Grafana And Verify it",
+        "uid" : "c72e79acf290cdb0",
+        "parentUid" : "0a06c70008b4592acf667ead6449d487",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868673091,
+          "stop" : 1617868677185,
+          "duration" : 4094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test01 - Get Team From Grafana",
+        "uid" : "33aac78f142e652",
+        "parentUid" : "0a06c70008b4592acf667ead6449d487",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868660084,
+          "stop" : 1617868664842,
+          "duration" : 4758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "test02 - Add Team To Grafana And Verify it",
+        "uid" : "b6dbce1605a38a5e",
+        "parentUid" : "0a06c70008b4592acf667ead6449d487",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868664859,
+          "stop" : 1617868668975,
+          "duration" : 4116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "0a06c70008b4592acf667ead6449d487"
+    }, {
+      "name" : "13956@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "test02 - Verify Visit With Out Card",
+        "uid" : "98848d4e8a81fb93",
+        "parentUid" : "a9b9d00d409adc33b404690357041152",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1617868380739,
+          "stop" : 1617868380739,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test01 - Verify Login",
+        "uid" : "beb96bf901ab8186",
+        "parentUid" : "a9b9d00d409adc33b404690357041152",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617868379603,
+          "stop" : 1617868379762,
+          "duration" : 159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "AfterMethod",
+        "uid" : "612a0f9d4b692214",
+        "parentUid" : "a9b9d00d409adc33b404690357041152",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868380726,
+          "stop" : 1617868380727,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "a9b9d00d409adc33b404690357041152"
+    }, {
+      "name" : "12000@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "test01 - Verify Login",
+        "uid" : "c389810e603f4f3c",
+        "parentUid" : "a97a164a38d91530b50c40b327897592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617868243602,
+          "stop" : 1617868243762,
+          "duration" : 160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "AfterMethod",
+        "uid" : "3e305bcf28782d54",
+        "parentUid" : "a97a164a38d91530b50c40b327897592",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868244752,
+          "stop" : 1617868244753,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test02 - Verify Visit With Out Card",
+        "uid" : "b3cf781b0dcdb081",
+        "parentUid" : "a97a164a38d91530b50c40b327897592",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1617868244767,
+          "stop" : 1617868244768,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "a97a164a38d91530b50c40b327897592"
+    }, {
+      "name" : "14504@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "AfterMethod",
+        "uid" : "840ef1731e8c157",
+        "parentUid" : "d297faec2384f52504d318f9b5170738",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868116535,
+          "stop" : 1617868116539,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test02 - Verify Visit With Out Card",
+        "uid" : "7880a4fbf2fd5913",
+        "parentUid" : "d297faec2384f52504d318f9b5170738",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617868111182,
+          "stop" : 1617868116512,
+          "duration" : 5330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test01 - Verify Login",
+        "uid" : "b925e2b9e516da3a",
+        "parentUid" : "d297faec2384f52504d318f9b5170738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617868100712,
+          "stop" : 1617868100836,
+          "duration" : 124
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "d297faec2384f52504d318f9b5170738"
+    }, {
+      "name" : "13760@DESKTOP-67TBU2L.main(1)",
+      "children" : [ {
+        "name" : "test01 - Verify Login",
+        "uid" : "dbd469472d03a676",
+        "parentUid" : "13bfcc84b98f5f6fed0fbf2b8d16c033",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617868581768,
+          "stop" : 1617868581919,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "test02 - Verify Visit With Out Card",
+        "uid" : "59dd91ae23a67e0b",
+        "parentUid" : "13bfcc84b98f5f6fed0fbf2b8d16c033",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617868592583,
+          "stop" : 1617868600223,
+          "duration" : 7640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "13bfcc84b98f5f6fed0fbf2b8d16c033"
+    } ],
+    "uid" : "242d64ea943f686085cc2959fac572d0"
+  } ]
+}

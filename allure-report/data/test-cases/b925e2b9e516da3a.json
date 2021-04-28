@@ -1,0 +1,113 @@
+{
+  "uid" : "b925e2b9e516da3a",
+  "name" : "test01 - Verify Login",
+  "fullName" : "santiy.MaccbiWeb.Test01_VerifyLogin",
+  "historyId" : "34e2040afa7820a3693c5b86dc268cf",
+  "time" : {
+    "start" : 1617868100712,
+    "stop" : 1617868100836,
+    "duration" : 124
+  },
+  "description" : "This Test Verify Login",
+  "descriptionHtml" : "<p>This Test Verify Login</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "BeforeMethod",
+    "time" : {
+      "start" : 1617868088666,
+      "stop" : 1617868100555,
+      "duration" : 11889
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1617868116548,
+      "stop" : 1617868116548,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "broken",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "AfterMethod",
+    "time" : {
+      "start" : 1617868100847,
+      "stop" : 1617868101376,
+      "duration" : 529
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "santiy.MaccbiWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "santiy.MaccbiWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01_VerifyLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Web suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "santiy.MaccbiWeb"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-67TBU2L"
+  }, {
+    "name" : "thread",
+    "value" : "14504@DESKTOP-67TBU2L.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b925e2b9e516da3a.json",
+  "parameterValues" : [ "web" ]
+}

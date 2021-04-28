@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 08 10:56:21 IDT 2021","Thu Apr 08 10:56:21 IDT 2021","151","Web suite","Web Test","santiy.MaccbiWeb","santiy.MaccbiWeb","Test01_VerifyLogin","test01 - Verify Login","This Test Verify Login"
+"passed","Thu Apr 08 10:56:32 IDT 2021","Thu Apr 08 10:56:40 IDT 2021","7640","Web suite","Web Test","santiy.MaccbiWeb","santiy.MaccbiWeb","Test02_VerifyVisitWithOutCard","test02 - Verify Visit With Out Card","This Test Verify Visit With Out Card"
+"passed","Thu Apr 08 13:06:49 IDT 2021","Thu Apr 08 13:06:49 IDT 2021","141","Web suite","Web Test","santiy.GrafanaApi","santiy.GrafanaApi","test02_addTeam","test02 - Add Team To Grafana And Verify it","This Test Add Team And Verify it"
+"broken","Thu Apr 08 10:53:00 IDT 2021","Thu Apr 08 10:53:00 IDT 2021","1","Web suite","Web Test","santiy.MaccbiWeb","santiy.MaccbiWeb","AfterMethod","AfterMethod",""
+"passed","Thu Apr 08 13:06:49 IDT 2021","Thu Apr 08 13:06:49 IDT 2021","137","Web suite","Web Test","santiy.GrafanaApi","santiy.GrafanaApi","test04_deleteTeam","test04 - Delete Team in Grafana And Verify it","This Test Delete Team And Verify it"
+"passed","Thu Apr 08 13:06:47 IDT 2021","Thu Apr 08 13:06:49 IDT 2021","2070","Web suite","Web Test","santiy.GrafanaApi","santiy.GrafanaApi","test01_VerifyTeam","test01 - Get Team From Grafana","This Test Verify Team"
+"passed","Thu Apr 08 13:06:49 IDT 2021","Thu Apr 08 13:06:49 IDT 2021","210","Web suite","Web Test","santiy.GrafanaApi","santiy.GrafanaApi","test03_updateTeam","test03 - Update Team in Grafana And Verify it","This Test update Team And Verify it"

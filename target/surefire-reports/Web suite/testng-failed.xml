@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Web suite]">
+  <test thread-count="5" verbose="0" name="Web Test(failed)">
+    <parameter name="PlatformName" value="api"/>
+    <classes>
+      <class name="santiy.GrafanaApi">
+        <methods>
+          <include name="test02_addTeam"/>
+          <include name="test01_VerifyTeam"/>
+          <include name="BeforeMethod"/>
+          <include name="test03_updateTeam"/>
+          <include name="afterMethod"/>
+          <include name="test04_deleteTeam"/>
+        </methods>
+      </class> <!-- santiy.GrafanaApi -->
+    </classes>
+  </test> <!-- Web Test(failed) -->
+</suite> <!-- Failed suite [Web suite] -->
