@@ -40,6 +40,7 @@ public class WebFlows extends CommonOps {
         WebElement attacheFile = driver.findElement(By.xpath("//*[@data-hook='UploadBaseWrapper']//input"));
         attacheFile.sendKeys("C:\\Users\\doronalaluf\\Desktop\\עתיד האוטומציה - חומרי קורס_files\\clickhere.png");
         Thread.sleep(3000);
+        Thread.sleep(4000);
         }
     }
 
