@@ -135,7 +135,7 @@ public class CommonOps extends Base {
         startSession();
         if(platform.equalsIgnoreCase("web")) {
             driver.get(getData("url"));
-            WebFlows.Login("4242", "123456");
+            WebFlows.Login("4242", "Aa123456");
             UIActions.UnReadMessages(MaccbiMain.UnreadMessagesBtn);
         }
             if (!platform.equalsIgnoreCase("api")) {
